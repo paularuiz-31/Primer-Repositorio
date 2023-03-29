@@ -5,7 +5,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
  
 		
-	System.out.println("Hola clase!");
+	System.out.println("Hola clase! hola mundo");
 	
 	//variables y tipos de datos primitivos
 	
